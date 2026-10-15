@@ -1,5 +1,5 @@
 # :earth_americas: Resistivity forward modelling Schlumberger
-67
+
 
 A simple Streamlit app showing the GDP of different countries in the world.
 
